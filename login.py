@@ -214,4 +214,3 @@ root.mainloop()
 # Closing the database connection
 conn.close()
 
-++++
